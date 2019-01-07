@@ -1,7 +1,7 @@
 ###################################################################
 #                                                                 #
-#    IELM V1.0                                             #
-#    Limeng Cui (lmcui932-at-163.com)                             #
+#    IELM V1.0                                                    #
+#    Limeng Cui (lmcui932-at-gmail.com)                           #
 #                                                                 #
 ###################################################################
 
@@ -14,17 +14,20 @@ Part of the Matlab code is supported on Felix Yu’s pSVM package (https://githu
 If you use the IELM, we appreciate it if you cite an appropriate subset of the following papers:
 
 @inproceedings{cui2017inverse,<br />
-&nbsp;&nbsp;title={Inverse Extreme Learning Machine for Learning with Label Proportions},<br />
-&nbsp;&nbsp;author={Cui, Limeng and Zhang, Jiawei and Chen, Zhensong and Shi, Yong and Yu, Philip S.},<br />
-&nbsp;&nbsp;booktitle={Proceedings of IEEE International Conference on Big Data},<br />
+&nbsp;&nbsp;title={Inverse extreme learning machine for learning with label proportions},<br />
+&nbsp;&nbsp;author={Cui, Limeng and Zhang, Jiawei and Chen, Zhensong and Shi, Yong and Philip, S Yu},<br />
+&nbsp;&nbsp;booktitle={Big Data (Big Data), 2017 IEEE International Conference on},<br />
+&nbsp;&nbsp;pages={576--585},<br />
 &nbsp;&nbsp;year={2017},<br />
+&nbsp;&nbsp;organization={IEEE}<br />
 }
 
 @article{shi2017learning,<br />
 &nbsp;&nbsp;title={Learning from label proportions with pinball loss},<br />
 &nbsp;&nbsp;author={Shi, Yong and Cui, Limeng and Chen, Zhensong and Qi, Zhiquan},<br />
 &nbsp;&nbsp;journal={International Journal of Machine Learning and Cybernetics},<br />
-&nbsp;&nbsp;year={2016},<br />
+&nbsp;&nbsp;pages={1--19},<br />
+&nbsp;&nbsp;year={2017},<br />
 &nbsp;&nbsp;publisher={Springer}<br />
 }
 
